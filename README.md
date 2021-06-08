@@ -62,6 +62,10 @@ Se compondra de un titulo, un input y un boton. Donde el consumo de la api se ac
     - ES5 / ES6 / JQUERY para el JavaScript.
     - Fetch / Ajax
 
+## Entrega 🎁
+
+    - Mandar el proyecto concluido en github mediante un pull request 🍺.
+
 # Resultado
 Al final se debera ver asi:
 
@@ -73,8 +77,3 @@ Al final se debera ver asi:
 ![](https://cdn.shopify.com/s/files/1/0363/2077/2233/files/prueba_nav-mobile.png?v=1623178392)
 ###
 ![](https://cdn.shopify.com/s/files/1/0363/2077/2233/files/prueba_search.png?v=1623178392)
-
-
-## Entrega 🎁
-
-    - Mandar el proyecto concluido en github mediante un pull request 🍺.
