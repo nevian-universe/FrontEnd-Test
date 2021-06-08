@@ -9,7 +9,7 @@
 
 ## Instrucciones 📋
 
-  - Realiza un fork de proyecto
+  - Realiza un fork del proyecto
   - Utiliza los archivos corrspondientes para el CSS, HTML y JAVASCRIPT
   - Utiliza las imagenes que estan en la carpeta assets
   - Una vez termines realiza tu commit y el pull request al repositio original (puedes usar :octocat: en el commit 😊 )
@@ -18,8 +18,9 @@
 ```
 $ git clone [url]
 ```
-
-  La prueba se compone de una nav donde se encuentra el logo, 3 link (anclajes a cada seccion) y un boton igual con un anclaje a la secciondel buscador del pokemon (este ultimo si es que se realizo).
+### Nav
+  La prueba se compone de una nav.
+  - Donde se encuentra el logo, 3 link (anclajes a cada seccion) y un boton igual con un anclaje a la seccion del buscador del pokemon (este ultimo si es que se realizo).
   El nav en mobile debe ser un despegable de lado izquierdo para los iconos puedes usar &#9776; para la hamburguesa, y &times; para el icono de cerrar.
 
   El contenido se compone de 3 secicones y una 4ta que sera un plus
@@ -49,7 +50,7 @@ $ git clone [url]
 
 ## Plus 🚀
 
-    Realizar la seccion de buscar pokemon consumiendo la pokeapi y mostar su imagen y nombre.
+    Realizar la seccion de _buscar pokemon_ consumiendo la pokeapi y mostar su imagen y nombre.
 
 ### Cuarta seccion
 la cuerta seccion es un plus no te preocupes si no la realizas.
@@ -61,7 +62,7 @@ Se compondra de un titulo, un input y un boton. Donde el consumo de la api se ac
     - ES5 / ES6 / JQUERY para el JavaScript.
     - Fetch / Ajax
 
-# Kuantrum Prueba Front-end
+# Resultado
 Al final se debera ver asi:
 
 ####
