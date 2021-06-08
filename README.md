@@ -41,7 +41,7 @@ $ git clone [url]
 - La tercera seccion sera muy parecida a la primera sin embargo la imagen debera estar de lado derecho y su correspondiente copy.
     - titulo: _Durante tu viaje, te toparás con los Pokémon legendarios Dialga o Palkia, dependiendo de si juegas a Pokémon Diamante Brillante o a Pokémon Perla Reluciente, respectivamente._
 
-## Puntos a revisiar 📌
+## Puntos a revisar 📌
 
     - HTML5
     - Uso de CSS.
