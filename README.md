@@ -27,8 +27,8 @@ $ git clone [url]
   ### Primer seccion
 - la primer seccion seran dos bloques una de lado izquierdo que sera texto y otra de lado derecho con una imagen.
     el copy de la primera seccion es este:
-        - titulo: _La región de Sinnoh de Pokémon Diamante Brillante y Pokémon Perla Reluciente_
-        - cont: _Deja que la nostalgia se apodere de ti y vuelve a disfrutar de Pokémon Diamante y Pokémon Perla en Nintendo Switch. Las aventuras de Pokémon Diamante Brillante y Pokémon Perla Reluciente transcurren en la región de Sinnoh. Se trata de una región de naturaleza exuberante, con el imponente Monte Corona en su corazón, y cuyos mitos se han transmitido de generación en generación. Tendrás que visitar distintas zonas mientras intentas convertirte en Campeón o Campeona de la Liga Pokémon._
+    - titulo: _La región de Sinnoh de Pokémon Diamante Brillante y Pokémon Perla Reluciente_
+    - cont: _Deja que la nostalgia se apodere de ti y vuelve a disfrutar de Pokémon Diamante y Pokémon Perla en Nintendo Switch. Las aventuras de Pokémon Diamante Brillante y Pokémon Perla Reluciente transcurren en la región de Sinnoh. Se trata de una región de naturaleza exuberante, con el imponente Monte Corona en su corazón, y cuyos mitos se han transmitido de generación en generación. Tendrás que visitar distintas zonas mientras intentas convertirte en Campeón o Campeona de la Liga Pokémon._
 
     ### Segunda seccion
 - la segunda seccion sera un grupo de 3 bloques cada bloque se compondra con una imagen (assets) y su correspondiente copy.
